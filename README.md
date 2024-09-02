@@ -2,34 +2,12 @@
 
 ## 🧠 Data Science / ML
 
-<details>
-<summary>
-
 | Icon | Technologies | Description |
 |------|--------------|-------------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) | Python | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
-
-</summary>
-
-<table>
-  <tr>
-    <td style="padding-left: 20px;">![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)</td>
-    <td>PyTorch</td>
-    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-  </tr>
-  <tr>
-    <td style="padding-left: 20px;">![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)</td>
-    <td>Traditional ML (Scikit-learn and traditional ML models XGBoost, LGBM etc.)</td>
-    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-  </tr>
-  <tr>
-    <td style="padding-left: 20px;">![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)</td>
-    <td>Other</td>
-    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-  </tr>
-</table>
-
-</details>
+| ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | &nbsp;&nbsp;&nbsp;&nbsp;PyTorch | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | &nbsp;&nbsp;&nbsp;&nbsp;Traditional ML (Scikit-learn, XGBoost, LGBM etc.) | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) | &nbsp;&nbsp;&nbsp;&nbsp;Other Python | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ## 🛠 System Engineering & Middleware
 
