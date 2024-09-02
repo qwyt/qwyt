@@ -44,16 +44,30 @@
 
 ## Showcase Projects
 
-### 1. Age and Gender Classifier (PyTorch / Deep Learning)
-[GitHub Repository](https://github.com/qwyt/AgeGenderClassifier)
+<div style="border: 1px solid #333; border-radius: 4px; padding: 8px 12px; margin-bottom: 12px;">
+  <a href="https://github.com/qwyt/AgeGenderClassifier" style="display: flex; align-items: center; color: inherit; text-decoration: none;">
+    <img src="https://github.com/favicon.ico" width="20" height="20" style="margin-right: 8px;">
+    <div>
+      <div style="font-weight: 500;">AgeGenderClassifier</div>
+      <div style="font-size: 12px; color: #888;">qwyt</div>
+    </div>
+  </a>
+</div>
 
 Building a MobileNet age and gender classification model using the UTKFace dataset. This model achieves comparable performance to significantly more complex models like SENet, ResNet, and VGG. The project includes:
 - Extensive manual data analysis
-  - Tuning using Weights & Biases
-  - Augmentation-based oversampling and synthetic sample generation
+- Tuning using Weights & Biases
+- Augmentation-based oversampling and synthetic sample generation
 
-### 2. Home Credit Default Risk (ML / Data Science)
-[GitHub Repository](https://github.com/qwyt/home_credit_default_risk)
+<div style="border: 1px solid #333; border-radius: 4px; padding: 8px 12px; margin-bottom: 12px;">
+  <a href="https://github.com/qwyt/HomeCreditDefaultRisk" style="display: flex; align-items: center; color: inherit; text-decoration: none;">
+    <img src="https://github.com/favicon.ico" width="20" height="20" style="margin-right: 8px;">
+    <div>
+      <div style="font-weight: 500;">HomeCreditDefaultRisk</div>
+      <div style="font-size: 12px; color: #888;">qwyt</div>
+    </div>
+  </a>
+</div>
 
 Developing LGBM and XGBoost models for predicting credit default risk. Key features:
 - Extensive feature engineering using Feature Tools/DFS
@@ -61,11 +75,27 @@ Developing LGBM and XGBoost models for predicting credit default risk. Key featu
 
 ## Additional Data Science Projects
 
-1. **Police Shootings Database 2015-2023, Washington Post**
-   - [GitHub Repository](https://github.com/qwyt/eda_washington_post_police_shootings)
-   - Jupyter Notebook/Presentation with exploratory data analysis
+<div style="border: 1px solid #333; border-radius: 4px; padding: 8px 12px; margin-bottom: 12px;">
+  <a href="https://github.com/qwyt/WashingtonPostPoliceShootings" style="display: flex; align-items: center; color: inherit; text-decoration: none;">
+    <img src="https://github.com/favicon.ico" width="20" height="20" style="margin-right: 8px;">
+    <div>
+      <div style="font-weight: 500;">WashingtonPostPoliceShootings</div>
+      <div style="font-size: 12px; color: #888;">qwyt</div>
+    </div>
+  </a>
+</div>
 
-2. **25k+ Matches Football Database**
-   - [GitHub Repository](https://github.com/qwyt/football_betting_odds_model)
-   - Building LGBM, XGBoost, and other models for predicting football match outcomes
-   - Includes extensive EDA and feature engineering (individual player analysis, rolling performance metrics, etc.)
+- Jupyter Notebook/Presentation with exploratory data analysis on Police Shootings Database 2015-2023, Washington Post
+
+<div style="border: 1px solid #333; border-radius: 4px; padding: 8px 12px; margin-bottom: 12px;">
+  <a href="https://github.com/qwyt/FootballBettingModel" style="display: flex; align-items: center; color: inherit; text-decoration: none;">
+    <img src="https://github.com/favicon.ico" width="20" height="20" style="margin-right: 8px;">
+    <div>
+      <div style="font-weight: 500;">FootballBettingModel</div>
+      <div style="font-size: 12px; color: #888;">qwyt</div>
+    </div>
+  </a>
+</div>
+
+- Building LGBM, XGBoost, and other models for predicting football match outcomes
+- Includes extensive EDA and feature engineering (individual player analysis, rolling performance metrics, etc.)
