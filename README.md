@@ -1,27 +1,9 @@
-# 👋 Hello, I'm Paulius 
+# 👋 Hello, I'm Paulius
 
 ## 🚀 About Me
 
 * 🔭 **Current Focus:** Building knowledge in Data Science, ML & AI
-
-* 🌟 **Background:** 7+ years in Game Engine/Middleware development for mobile platforms, encompassing user-facing UI and API development, internal processing optimization, and creation of data-intensive tools
-* 🌱 **Evolving Interests:** 
-  * Building user-centric data analysis and visualization tools
-  * Developing AI and ML-driven applications with tangible user impact
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-# 👋 Hello, I'm [Your Name]
-
-## 🚀 About Me
-
-* 🔭 **Current Focus:** Building knowledge in Data Science, ML & AI
-* 🌟 **Background:** 7+ years in Game Engine/Middleware development. Mainly focusing mobile platforms, user-facing UI and API development and data-heavy internal analysis tool development.
+* 🌟 **Background:** 7+ years in Game Engine/Middleware development. Mainly focusing mobile platforms, user-facing UI and API development and data-heavy internal tool development.
 * 
 * 🌱 **Interests:** 
   * Working user-centric, data-driven applications
@@ -29,10 +11,10 @@
 
 * 🌱 **Interests:** 
   * Working on user-centric, data-driven applications
-  * Applying AI and ML to solve real-world problems
+  * Applying DS & ML to solve real-world problems
 
 
-## 📫 Connect with Me
+## 📫 Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulius-puodžiūnas-71a43792
 
