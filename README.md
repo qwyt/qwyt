@@ -1,18 +1,14 @@
-# 👋 Hello, I'm Paulius
+# 👋 Hi, I'm Paulius
 
 ## 🚀 About Me
 
 * 🔭 **Current Focus:** Building knowledge in Data Science, ML & AI
-* 🌟 **Background:** 7+ years in Game Engine/Middleware development. Mainly focusing mobile platforms, user-facing UI and API development and data-heavy internal tool development.
-* 
-* 🌱 **Interests:** 
-  * Working user-centric, data-driven applications
-  * Leveraging AI and ML technologies to create impactful software
+* 🌟 **Background:** 7+ years in Game Engine/Middleware development. Mainly focusing on mobile platforms, user-facing UI and
+  API development, data-heavy internal tool development.
 
-* 🌱 **Interests:** 
-  * Working on user-centric, data-driven applications
-  * Applying DS & ML to solve real-world problems
-
+* 🌱 **Interests:**
+    * Working on user-centric, data-driven applications
+    * Applying DS & ML to solve real-world problems
 
 ## 📫 Contacts
 
@@ -23,26 +19,25 @@
 
 ## 📊 Data Science / ML
 
-| | | | |
-|-|-|-|-|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) | Python | | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
-| | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | PyTorch | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
-| | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | Traditional ML (Scikit-learn, XGBoost, LGBM etc.) | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
-| | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) | Other Python | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+|                                                                                                      |                                                                                                                         |                                                   |                                                          |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|----------------------------------------------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) | Python                                                                                                                  |                                                   |                                                          |
+|                                                                                                      | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | Traditional ML (Scikit-learn, XGBoost, LGBM etc.) |                                                          |
+|                                                                                                      | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)                    | Other Python                                      |                                                          |
 
 ## 🛠 Software Development
 
-| | | |
-|-|-|-|
-| ![Apple](https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=apple&logoColor=white) | iOS / Obj-C | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
-| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | C# / .NET / Mono | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | C++ | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
-| ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) | Unity3D | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+|                                                                                                   |                  |  |
+|---------------------------------------------------------------------------------------------------|------------------|--|
+| ![Apple](https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=apple&logoColor=white) | iOS / Obj-C      |  |
+| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)   | C# / .NET / Mono |  |
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)   | C++              |  |
+| ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) | Unity3D          |  |
 
 ## 🌐 Other Technologies
 
-| | | |
-|-|-|-|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | React / Node.js | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Linux / Docker / etc. UNIX | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | VCS / Git / Mercurial / Perforce | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+|                                                                                                   |                                  |  |
+|---------------------------------------------------------------------------------------------------|----------------------------------|--|
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | React / Node.js                  |
+| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Linux / Docker / etc.            |  |
+| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)       | VCS / Git / Mercurial / Perforce |  |
